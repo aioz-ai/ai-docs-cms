@@ -3,11 +3,11 @@ title: [Beetlebot series] - Part 3: The journey
 author: @kim.tran
 authorURL: http://twitter.com/aioznetwork
 ---
-
+![banner](assets/2021-04-11-aioz-beetlebot-3/Untitled%201.png)
+<!--truncate-->
 The Beetlebot project has gone through three major stages of development so far.
 
 In the beginning, we were planning on designing a versatile robot that could cross forms with ease.
-<!--truncate-->
 Based on the Beetle spirit, we have designed the robot shape so that it resembles the Beetle, Both cute and close to the Beetle, while also reflecting the Beetle's image that we were inspired by.
 
 ![Banner](assets/2021-04-11-aioz-beetlebot-3/version1_2.png)
