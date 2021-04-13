@@ -8,7 +8,7 @@ The growth of Artificial Intelligence (AI) market is seemingly unabated at a rem
 the largest and most important markets in the world. However, the requirements for large annotated datasets, and a complex technical infrastructure have somehow driven AI
 development behind the closed doors of corporations.
 
-AT AIOZ, We aim to create a decentralized Optimization ecosystem and public AIOZ.AI protocol, where developers and consumers can harmoniously collaborate to benefit
+At AIOZ, We aim to create a decentralized Optimization ecosystem and public AIOZ.AI protocol, where developers and consumers can harmoniously collaborate to benefit
 each other and continuously contribute to the AI community, while putting privacy-preserving as one of the number one mission statement. With the aid of AIOZ.AI protocol, the AI algorithms not only can be trained on the untapped private data that it never has access to, but also leverage
 the idle processing power of individual devices (from mobile/handheld devices to desktop/PC), in which resulting more precise predictions.
 

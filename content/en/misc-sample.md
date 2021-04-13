@@ -8,6 +8,30 @@ All the contents in this Wiki are powered by [GitHub Flavored Markdown (GFM)](ht
 
 ## Metadata
 
+### Blog Posts
+
+Blog posts use the following markdown header fields that are enclosed by a line `---` on either side:
+
+`title`: The title of this blog post.
+
+`author`: The author of this blog post. If this field is omitted, no author name will be shown.
+
+`authorURL`: A page to link to when a site user clicks the author's name. If this field is omitted, the author's name will not link to anything.
+
+`authorFBID`: The author's Facebook id, used only to get the author's profile picture to display with the blog post. If this field is omitted, no author picture will be shown for the blog post.
+
+For example:
+
+```yaml
+---
+title: My First Blog Post
+author: Frank Li
+authorURL: http://twitter.com/franchementli
+authorFBID: 100002976521003
+---
+
+```
+
 ### Articles
 
 Articles use the following markdown header fields that are enclosed by a line `---` on either side:
@@ -38,30 +62,6 @@ For example:
 id: doc-markdown
 title: Markdown Features
 custom_edit_url: https://github.com/facebook/docusaurus/edit/master/docs/api-doc-markdown.md
----
-
-```
-
-### Blog Posts
-
-Blog posts use the following markdown header fields that are enclosed by a line `---` on either side:
-
-`title`: The title of this blog post.
-
-`author`: The author of this blog post. If this field is omitted, no author name will be shown.
-
-`authorURL`: A page to link to when a site user clicks the author's name. If this field is omitted, the author's name will not link to anything.
-
-`authorFBID`: The author's Facebook id, used only to get the author's profile picture to display with the blog post. If this field is omitted, no author picture will be shown for the blog post.
-
-For example:
-
-```yaml
----
-title: My First Blog Post
-author: Frank Li
-authorURL: http://twitter.com/franchementli
-authorFBID: 100002976521003
 ---
 
 ```
@@ -103,10 +103,10 @@ Static assets can be linked to in the same way that documents are, using relativ
 
 Example:
 
-![AIOZ.AI Logo](assets/aioz.ai-logo.png)
+![AIOZ.AI Logo](assets/aioz-logo.png)
 
 ```md
-![alt-text](assets/aioz.ai-logo.png)
+![alt-text](assets/aioz-logo.png)
 ```
 
 ### Language-specific Code Tabs
