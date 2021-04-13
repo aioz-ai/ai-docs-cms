@@ -26,25 +26,7 @@ content # content root directory
 └── zh-CN # wiki artciles, Simplified Chinese version
 ```
 
-Go to content and edit your files.  While you are editing, you can start a local server to live preview your files
-
-```
-# go to local server folder
-cd docusaorus/website
-
-# install dependency to start local server
-yarn
-
-# start local server
-yarn start
-
-# a browser page will open, it will auto reflect your modification of articles/blogs in real time
-# note: some modification might require restart the local server, to restart local server, press key
-CTRL+C
-
-# start again
-yarn start
-```
+Go to content and edit your files.  While you are editing, you can start a local server to live preview your files, or using markdown viewer in a text editor such as Atom/Sublime.
 
 When you are done with your modification, add your changes and submit the commit as pull request.
 
@@ -56,7 +38,7 @@ git add content/
 git commit -m 'My arbitrary commit message'
 
 # submit
-git push origin master
+git push origin <branch>
 ```
 
 # How to write article
