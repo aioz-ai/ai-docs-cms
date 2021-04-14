@@ -1,5 +1,5 @@
 ---
-id: wp-home
+id: wiki-ai-mission
 title: Mission
 sidebar_label: Mission
 ---
