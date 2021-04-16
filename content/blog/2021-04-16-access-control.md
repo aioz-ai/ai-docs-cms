@@ -6,8 +6,6 @@ authorURL: http://twitter.com/aioznetwork
 ![](assets/2021-04-16-access-control/Untitled.png)
 <!--truncate-->
 
-# [Access Control System series] Part 1: An introduction to the future.
-
 The COVID-19 pandemic has caused a lot of loss but at the same time it also opened a new way of managing people and organizing collective activities. It has changed our way of thinking. In 2020, we have observed an explosion of online management applications, robots, and other automation software to minimize direct contact between people. Inspired by that, we have developed an Access Control System application. Through this application, we want to introduce a new, safe, simple way to manage your visitors and employees. We believe that the system not only opens a new way to reduce touchpoints in COVID era but also the future of managing visitors.
 
 ### **Why use an access control system?**
