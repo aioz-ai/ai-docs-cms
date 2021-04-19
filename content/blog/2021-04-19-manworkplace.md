@@ -4,7 +4,7 @@ author: @thu.nguyen
 authorURL: http://twitter.com/aioznetwork
 ---
 
-![2021-04-19-manworkplace/pasted_image_.png](2021-04-19-manworkplace/pasted_image_.png)
+![assets/2021-04-19-manworkplace/pasted_image_.png](2021-04-19-manworkplace/pasted_image_.png)
 <!--truncate-->
 
 Girls! can you imagine one day you will embark on a tech career?
@@ -15,7 +15,7 @@ When I first started working at AIOZ I was still ambiguous with the meaning of t
 
 When you are a girl and work in a predominantly male environment, how do you feel? Stuffy, rigid or vibrant, animated? For a company specializing in technology, the number of male employees more than female employees is a very normal thing.
 
-![2021-04-19-manworkplace/pasted_image_0.png](2021-04-19-manworkplace/pasted_image_0.png)
+![assets/2021-04-19-manworkplace/pasted_image_0.png](2021-04-19-manworkplace/pasted_image_0.png)
 
 AIOZ builds a product for the community, there are different thoughts between men and women, if just only men join to create the software, you will miss half of customers' requirements. So bringing some flowers to the monotonous office is not a bad idea!
 
