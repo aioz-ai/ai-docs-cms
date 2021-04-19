@@ -1,13 +1,13 @@
 ---
-title: AIOZ- From A to Z
+title: Working in "a men workplace"
 author: @thu.nguyen
 authorURL: http://twitter.com/aioznetwork
 ---
-# Working in "a men workplace"
 
-Girls! can you imagine one day you will embark on a tech career?
 ![2021-04-19-manworkplace/pasted_image_.png](2021-04-19-manworkplace/pasted_image_.png)
 <!--truncate-->
+
+Girls! can you imagine one day you will embark on a tech career?
 
 With such a dry thing, what makes you love it? If you work in a place where people are passionate about technology. Although sometimes you're under pressure because of the difficult problems, unable to find solutions. But technology has its own appeal, and you will be inspired by it day by day.
 
