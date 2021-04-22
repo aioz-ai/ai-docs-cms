@@ -1,7 +1,7 @@
 # AI Network Docs CMS
 
 AIOZ AI Documentation CMS with Markdown and Git.
-We love Jamstack
+We love Jamstack.
 
 ## Sample Article
 Please follow the template guides for blog posts and articles [here](content/en/misc-sample.md).
