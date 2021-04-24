@@ -3,7 +3,6 @@ title: Do you know something called AI?
 author: @thu.nguyen
 authorURL: http://twitter.com/aioznetwork
 ---
-# Do you know something called AI?
 
 ![assets/2021-04-23-do-you-know-AI/cover.jpg](assets/2021-04-23-do-you-know-AI/cover.jpg)
 <!--truncate-->
