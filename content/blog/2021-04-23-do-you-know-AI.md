@@ -19,7 +19,7 @@ But when I work at AIOZ, I known more about AI and realized that what I thought 
 
 ### Very simple things have been optimized!
 
-But when I work at AIOZ, I learned more about AI and realized that what I thought was completely wrong. Artificial intelligence is used to create many products, many systems that are helpful in many different fields. Our clients can be the people in the financial sector, and they also can be the people in the transportation or the medical industry.
+Artificial intelligence uses algorithms, machine learning systems, and simulates human intelligence to create tools that make your life more straightforward. For example, in medicine, by applying artificial intelligence to create a robot that can replace you to go into the quarantine, avoiding human-to-human transmission. 
 
 ![assets/2021-04-23-do-you-know-AI/Untitled-5-2.png](assets/2021-04-23-do-you-know-AI/Untitled-5-2.png)
 
