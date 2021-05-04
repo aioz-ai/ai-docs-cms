@@ -3,7 +3,7 @@ title: AIOZ Smart Advertising
 author: @kim.tran
 authorURL: http://twitter.com/aioznetwork
 ---
-![assets/21-04-30-ads/Untitled.png](assets/21-04-30-ads/Untitled.png)
+![assets/2021-04-30-Smart-Ads/Untitled.png](assets/21-04-30-ads/Untitled.png)
 <!--truncate-->
 
 # What is Smart Advertising?
@@ -24,7 +24,7 @@ Most of the smart billboards you see in the Malls nowadays are just screens that
 
 We are different because we integrate AI processing, analyze potential customers based on their characteristics - by analyzing customers' age, gender, and costumes (clothing and accessories) - thereby providing reasonable advertising, increasing the likelihood of buying excitement.
 
-![assets/21-04-30-ads/Untitled%201.png](assets/21-04-30-ads/Untitled%201.png)
+![assets/2021-04-30-Smart-Ads/Untitled%201.png](assets/21-04-30-ads/Untitled%201.png)
 
 In addition, we also identify the fashion brands. By identifying the brands that customers are wearing, we can advertise the brands they love. Thanks to that, this form convinces users to pay for what they love.
 
