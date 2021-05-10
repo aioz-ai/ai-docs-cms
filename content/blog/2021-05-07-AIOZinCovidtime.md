@@ -1,5 +1,5 @@
 ---
-title: AIOZ in Covid
+title: AIOZ in Covid Time
 author: @thu.nguyen
 authorURL: http://twitter.com/aioznetwork
 ---
