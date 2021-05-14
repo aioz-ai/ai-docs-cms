@@ -1,5 +1,5 @@
 ---
-title: AIOZ Video Analytics - Smart vehicles management systems for your warehouse
+title: AIOZ Video Analytics - Smart VMS for your warehouse
 author: @thu.nguyen
 authorURL: http://twitter.com/aioznetwork
 ---
