@@ -14,7 +14,7 @@ We live in a time when science and technology develop rapidly and seem to play a
 Nowadays, artificial intelligence is considered a technology worthy of attention because of its effective application. If you are in trouble with having to control the vehicle in and out of your warehouse, AI solutions can help you.
 
 Although there are many challenges, we are constantly improving and developing. This is software that helps users track and manage their vehicles in and out of their warehouse efficient, with the following features:
-- Track vehicle entry and exit times
+- Track vehicle entry and exit time
 - Record the loading start time and finish loading time
 - Record the time the vehicle stops at the dock 
 - Safety warnings if workers do not wear helmets or do not wear a body harness 
