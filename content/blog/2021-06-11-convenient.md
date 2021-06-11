@@ -1,6 +1,10 @@
-# Series: How technology could change our life? - Second: More convenient
+---
+title: Series: How technology could change our life? - Second: More convenient
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
 
-![Series%20How%20technology%20could%20change%20our%20life%20-%20Seco%20bf202e2ffe17453498161b3c465846f5/shutterstock_1639774756.jpeg](Series%20How%20technology%20could%20change%20our%20life%20-%20Seco%20bf202e2ffe17453498161b3c465846f5/shutterstock_1639774756.jpeg)
+![assets/2021-06-11-convenient/shutterstock_1639774756.jpeg](assets/2021-06-11-convenient/shutterstock_1639774756.jpeg)
 
 Source: [https://pegus.digital/](https://pegus.digital/)
 
@@ -14,7 +18,7 @@ Look back in the past, it takes time to go to the bank to withdraw money, open a
 
 In the current global context when the Covid-19 pandemic has hit all the corners of the world, this is when e-commerce platforms become more useful than ever. Purchase things have never straightforward like this, you don't have to go to one store or another to choose the items you like. Nowadays, with just a smartphone, you can view hundreds of stores without much effort. Moreover, shopping online helps us to save a considerable amount of money. Because the seller does not have to pay much for renting space, the price of products on e-commerce platforms will be cheaper than when you come to buy directly at the store.
 
-![Series%20How%20technology%20could%20change%20our%20life%20-%20Seco%20bf202e2ffe17453498161b3c465846f5/dat-cau-voi-convenient1.jpeg](Series%20How%20technology%20could%20change%20our%20life%20-%20Seco%20bf202e2ffe17453498161b3c465846f5/dat-cau-voi-convenient1.jpeg)
+![assets/2021-06-11-convenient/dat-cau-voi-convenient1.jpeg](assets/2021-06-11-convenient/dat-cau-voi-convenient1.jpeg)
 
 Source: [https://stepup.edu.vn/](https://stepup.edu.vn/)
 
@@ -28,7 +32,7 @@ Technology makes it easier to target customers. In today's busy working environm
 
 In addition, technology also gives you great marketing tools. It can be said that a website is the most basic step for you to attract impressions from customers, many businesses today pay much attention to building websites, bringing the company's name closer to customers. You can also run Marketing strategies on social networking platforms, with a huge number of users today, running ads on Facebook, Instagram, or Twitter pages, etc. is very effective.
 
-![Series%20How%20technology%20could%20change%20our%20life%20-%20Seco%20bf202e2ffe17453498161b3c465846f5/mobile-intelligent-interface-automated-seo-advertisement-artificial-intelligence-social-media-ai-powered-marketing-tools-168578530.jpeg](Series%20How%20technology%20could%20change%20our%20life%20-%20Seco%20bf202e2ffe17453498161b3c465846f5/mobile-intelligent-interface-automated-seo-advertisement-artificial-intelligence-social-media-ai-powered-marketing-tools-168578530.jpeg)
+![assets/2021-06-11-convenient/mobile-intelligent-interface-automated-seo-advertisement-artificial-intelligence-social-media-ai-powered-marketing-tools-168578530.jpeg](assets/2021-06-11-convenient/mobile-intelligent-interface-automated-seo-advertisement-artificial-intelligence-social-media-ai-powered-marketing-tools-168578530.jpeg)
 
 Source: [https://www.dreamstime.com/](https://www.dreamstime.com/)
 
