@@ -5,6 +5,7 @@ authorURL: http://twitter.com/aioznetwork
 ---
 
 ![assets/2021-06-11-tech-life-convenient/shutterstock_1639774756.jpeg](assets/2021-06-11-tech-life-convenient/shutterstock_1639774756.jpeg)
+<!--truncate-->
 
 *Source: [https://pegus.digital/](https://pegus.digital/)*
 
