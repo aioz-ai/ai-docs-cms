@@ -1,6 +1,10 @@
-# Series: How technology could change our life?- Third: From fantasy to reality
+---
+title: Series: How technology could change our life?- Third: From fantasy to reality
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
 
-![Series%20How%20technology%20could%20change%20our%20life%20-%20Thir%20136e2135d72244c2b7f2ef6df4d021ba/774-holodeck.gif](Series%20How%20technology%20could%20change%20our%20life%20-%20Thir%20136e2135d72244c2b7f2ef6df4d021ba/774-holodeck.gif)
+![assets/2021-06-18-fantasy-to-reality/774-holodeck.gif](assets/2021-06-18-fantasy-to-reality/774-holodeck.gif)
 
 Source: [https://www.ncta.com](https://www.ncta.com/)/
 
@@ -14,7 +18,7 @@ Remember when robots were only in movies, now you can see all kinds of robots we
 
 Besides, there are delivery robots, medical examination and treatment robots, furniture transport robots in warehouses, etc. Engineers also create robots that look like humans to communicate with humans by applying artificial intelligence to them, such as Sophia, Erica, etc. Moreover, they also have great potential in many industries, artificial intelligence will gradually become popular in people's lives.
 
-![Series%20How%20technology%20could%20change%20our%20life%20-%20Thir%20136e2135d72244c2b7f2ef6df4d021ba/Robots_beetle.png](Series%20How%20technology%20could%20change%20our%20life%20-%20Thir%20136e2135d72244c2b7f2ef6df4d021ba/Robots_beetle.png)
+![assets/2021-06-18-fantasy-to-reality/Robots_beetle.png](assets/2021-06-18-fantasy-to-reality/Robots_beetle.png)
 
 AIOZ's Beetle bot- Help to delivery; help in quarantine area
 
@@ -22,7 +26,7 @@ You watch the intense battles between robots and robots in Hollywood movies and 
 
 Or you can immerse yourself in cinematic footage, no longer boring black and white 2D images like before, cinema in the 4.0 technology era can bring you the most authentic experiences. Technology applications such as AI in design, image and sound processing; Virtual Reality - VR; CGI technology, etc. used by filmmakers to bring audiences exciting blockbusters.
 
-![Series%20How%20technology%20could%20change%20our%20life%20-%20Thir%20136e2135d72244c2b7f2ef6df4d021ba/Virtual-Reality-is-Set-to-Impact-More-than-Just-Marketing-2.jpeg](Series%20How%20technology%20could%20change%20our%20life%20-%20Thir%20136e2135d72244c2b7f2ef6df4d021ba/Virtual-Reality-is-Set-to-Impact-More-than-Just-Marketing-2.jpeg)
+![assets/2021-06-18-fantasy-to-reality/Virtual-Reality-is-Set-to-Impact-More-than-Just-Marketing-2.jpeg](assets/2021-06-18-fantasy-to-reality/Virtual-Reality-is-Set-to-Impact-More-than-Just-Marketing-2.jpeg)
 
 Source: [https://martechseries.com](https://martechseries.com/)/
 
@@ -34,7 +38,7 @@ Even more prominent, when sending humans to Mars is still quite challenging, but
 
 "No dream is too high" - Buzz Aldrin (Apollo 11 Astronaut)
 
-![Series%20How%20technology%20could%20change%20our%20life%20-%20Thir%20136e2135d72244c2b7f2ef6df4d021ba/140709-apollo-11-liftoff-composite1.jpeg](Series%20How%20technology%20could%20change%20our%20life%20-%20Thir%20136e2135d72244c2b7f2ef6df4d021ba/140709-apollo-11-liftoff-composite1.jpeg)
+![assets/2021-06-18-fantasy-to-reality/140709-apollo-11-liftoff-composite1.jpeg](assets/2021-06-18-fantasy-to-reality/140709-apollo-11-liftoff-composite1.jpeg)
 
 Source: [https://www.life.com](https://www.life.com/)/
 
