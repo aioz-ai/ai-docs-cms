@@ -5,6 +5,7 @@ authorURL: http://twitter.com/aioznetwork
 ---
 
 ![assets/2021-06-18-fantasy-to-reality/774-holodeck.gif](assets/2021-06-18-fantasy-to-reality/774-holodeck.gif)
+<!--truncate-->
 
 Source: [https://www.ncta.com](https://www.ncta.com/)/
 
