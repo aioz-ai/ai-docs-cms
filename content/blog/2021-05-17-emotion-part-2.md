@@ -23,7 +23,9 @@ As the needs increase, the supply increases. We believe that the movie market is
 
 About 30 years ago, people went to cinemas to watch movies. These days, audiences have the opportunity to enjoy other additional services such as dining, shopping before and after viewing because most of today's large-scale, modern cinemas are located close to supermarkets or shopping malls. Modern cinemas integrate smart Ads screens. This integration will bring huge benefits, not only advertising movies but also advertising other services and products.
 
+<center>
 ![assets/21-05-17-emotion-part-2/Untitled%201.png](assets/21-05-17-emotion-part-2/Untitled%201.png)
+</center>
 
 These days, audiences have the opportunity to enjoy other additional services such as dining, shopping before and after viewing.
 

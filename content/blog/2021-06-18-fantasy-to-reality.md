@@ -7,7 +7,9 @@ authorURL: http://twitter.com/aioznetwork
 ![assets/2021-06-18-fantasy-to-reality/774-holodeck.gif](assets/2021-06-18-fantasy-to-reality/774-holodeck.gif)
 <!--truncate-->
 
-Source: [https://www.ncta.com](https://www.ncta.com/)
+<center>
+*Source: [https://www.ncta.com](https://www.ncta.com/)*
+</center>
 
 When discussing technology, what do you think of?
 
@@ -19,17 +21,21 @@ Remember when robots were only in movies, now you can see all kinds of robots we
 
 Besides, there are delivery robots, medical examination and treatment robots, furniture transport robots in warehouses, etc. Engineers also create robots that look like humans to communicate with humans by applying artificial intelligence to them, such as Sophia, Erica, etc. Moreover, they also have great potential in many industries, and artificial intelligence will gradually become popular in people's lives.
 
+<center>
 ![assets/2021-06-18-fantasy-to-reality/Robots_beetle.png](assets/2021-06-18-fantasy-to-reality/Robots_beetle.png)
 
-AIOZ's Beetle bot- Help to deliver; help in the quarantine area
+*AIOZ's Beetle bot- Help to deliver; help in the quarantine area*
+</center>
 
 You might have seen the fierce clashes between robots and robots in Hollywood movies and want to be a part of those dramatic battles, and now there are exhilarating robot combat games to fulfill you. There, engineers will compete with their self-built robots in a contest that will have a full-fledged fighting scene.
 
 Alternatively, you can immerse yourself in cinematic footage; no longer limited to dull black-and-white 2D graphics, cinema in the 4.0 technology era can provide you with the most authentic sensations. Filmmakers can now employ technology applications such as artificial intelligence (AI) in design, picture and sound processing, virtual reality (VR), and computer graphics (CGI) to bring spectators fascinating blockbusters.
 
+<center>
 ![assets/2021-06-18-fantasy-to-reality/Virtual-Reality-is-Set-to-Impact-More-than-Just-Marketing-2.jpeg](assets/2021-06-18-fantasy-to-reality/Virtual-Reality-is-Set-to-Impact-More-than-Just-Marketing-2.jpeg)
 
-Source: [https://martechseries.com](https://martechseries.com/)/
+*Source: [https://martechseries.com](https://martechseries.com/)*
+</center>
 
 A few years ago, I watched a movie episode of the famous series: detective Conan with the content revolving around the crime scene in the virtual reality space of a video game, where the player just sat in a cocoon and slept. Still, they could genuinely feel every centimeter of what happened in that game.  At the time, I wondered how it could be so real, and I had to change my mind. With today's technological advancements, this is entirely feasible.
 
@@ -39,9 +45,11 @@ Even more prominent, when sending humans to Mars is still quite challenging, but
 
 "No dream is too high" - Buzz Aldrin (Apollo 11 Astronaut)
 
+<center>
 ![assets/2021-06-18-fantasy-to-reality/140709-apollo-11-liftoff-composite1.jpeg](assets/2021-06-18-fantasy-to-reality/140709-apollo-11-liftoff-composite1.jpeg)
 
-Source: [https://www.life.com](https://www.life.com/)/
+*Source: [https://www.life.com](https://www.life.com/)*
+</center>
 
 Although many people fear that machines and robots will replace humans in many aspects, the risk of job loss will increase with the current development of science and technology. Everything has its good and bad sides, but technology was created to make people's lives simpler, not to rule the world.
 

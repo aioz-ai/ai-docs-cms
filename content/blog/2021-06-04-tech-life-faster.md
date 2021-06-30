@@ -26,7 +26,9 @@ Smartphones and technology are also applied to create products that help you sav
 
 For example, customers always need to have their problems solved promptly, but sometimes they will have to wait because the tellers are busy if they use a teller to do customer service. Many banks have now switched to Chatbots to overcome this problem, replacing bank officers to answer customer questions quickly and 24/7. The chatbot is a typical example of the application of AI technology in finance and banking.
 
+<center>
 ![assets/2021-06-04-tech-life-faster/content1.png](assets/2021-06-04-tech-life-faster/content1.png)
+</center>
 
 As a technology company, we have also developed AI and Robotics applications to optimize your time, such as OneKYC - an application to identify customers via ID card, takes less than 3 seconds to verify and store customer information; Access Control System- smart booking door application; ETC- automatic collect your toll fee, etc. We, AIOZ, are continuously researching and developing more products to do many activities without spending much time.
 

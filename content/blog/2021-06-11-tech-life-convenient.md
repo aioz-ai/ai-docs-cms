@@ -19,9 +19,11 @@ Look back in the past, it takes time to go to the bank to withdraw money, open a
 
 In the current global context, when the Covid-19 pandemic has hit all the corners of the world, this is when e-commerce platforms become more useful than ever. Purchase things have never straightforward like this, and you don't have to go to one store or another to choose the items you like. Nowadays, with just a smartphone, you can view hundreds of stores without much effort. Moreover, shopping online helps us to save a considerable amount of money. Because the seller does not have to pay much for renting space, the price of products on e-commerce platforms will be lower than when you come to buy directly at the store.
 
+<center>
 ![assets/2021-06-11-tech-life-convenient/dat-cau-voi-convenient1.jpeg](assets/2021-06-11-tech-life-convenient/dat-cau-voi-convenient1.jpeg)
 
 *Source: [https://stepup.edu.vn/](https://stepup.edu.vn/)*
+</center>
 
 On the other hand, when buying goods on e-commerce sites, you can use online payment methods; paying without cash can reduce many risks such as theft or loss. In the past, you had to carry a bunch of money and go to the store to buy, now with online payment; you can buy anywhere you want.
 
