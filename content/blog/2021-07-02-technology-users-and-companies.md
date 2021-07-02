@@ -1,6 +1,9 @@
-# Series: Are you ready for a digital world - Part 2: Technology users and Company
-
-![Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%202%20%20d145dda1dcb6494b90102ce021cc2c98/digital-transformation-la-gi.jpeg](Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%202%20%20d145dda1dcb6494b90102ce021cc2c98/digital-transformation-la-gi.jpeg)
+---
+title: Series: Are you ready for a digital world - Part 2: Technology users and Companies
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
+![assets/2021-07-02-technology-users-and-companies/digital-transformation-la-gi.jpeg](assets/2021-07-02-technology-users-and-companies/digital-transformation-la-gi.jpeg)
 
 [https://timviec365.vn/](https://timviec365.vn/)
 
@@ -26,7 +29,7 @@ Companies are transforming to store files in digital format because:
 
 Companies are now increasingly applying technology and consider technology an indispensable part of operating production and business activities. Regardless of the industry, by digitizing data and then do digital transformation, companies have been able to simplify their operations.
 
-![Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%202%20%20d145dda1dcb6494b90102ce021cc2c98/digitalage2-1170x658.jpeg](Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%202%20%20d145dda1dcb6494b90102ce021cc2c98/digitalage2-1170x658.jpeg)
+![assets/2021-07-02-technology-users-and-companies/digitalage2-1170x658.jpeg](assets/2021-07-02-technology-users-and-companies/digitalage2-1170x658.jpeg)
 
 Source: [https://ladyboss.asia/](https://ladyboss.asia/)
 
@@ -42,7 +45,7 @@ Today's technology products are all built to be simple for users to use. However
 
 In Vietnam, the government is progressively digitizing administrative procedures for straightforward storage and management by mobilizing people to change to ID cards with chips. In the near future, ID cards may replace many other types of paper, all information is stored in the national information system. Therefore, it can be easily accessed when people come to do administrative procedures, people will not need to spend time with cumbersome procedures like before. In addition, with the citizen's chip-mounted ID card, we can also be flexible in modifying and supplementing information.
 
-![Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%202%20%20d145dda1dcb6494b90102ce021cc2c98/a-close-up-of-the-new-chip-mounted-citizens-identity-card-colorful-more-compact-and-modern-41275d2f796d9033c97c-jpg.jpeg](Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%202%20%20d145dda1dcb6494b90102ce021cc2c98/a-close-up-of-the-new-chip-mounted-citizens-identity-card-colorful-more-compact-and-modern-41275d2f796d9033c97c-jpg.jpeg)
+![assets/2021-07-02-technology-users-and-companies/a-close-up-of-the-new-chip-mounted-citizens-identity-card-colorful-more-compact-and-modern-41275d2f796d9033c97c-jpg.jpeg](assets/2021-07-02-technology-users-and-companies/a-close-up-of-the-new-chip-mounted-citizens-identity-card-colorful-more-compact-and-modern-41275d2f796d9033c97c-jpg.jpeg)
 
 Source: [https://en.spress.net/](https://en.spress.net/)
 
