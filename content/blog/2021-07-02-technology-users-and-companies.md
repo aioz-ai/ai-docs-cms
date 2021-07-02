@@ -4,6 +4,7 @@ author: @thu.nguyen
 authorURL: http://twitter.com/aioznetwork
 ---
 ![assets/2021-07-02-technology-users-and-companies/digital-transformation-la-gi.jpeg](assets/2021-07-02-technology-users-and-companies/digital-transformation-la-gi.jpeg)
+<!--truncate-->
 
 [https://timviec365.vn/](https://timviec365.vn/)
 
