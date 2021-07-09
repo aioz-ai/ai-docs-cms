@@ -1,6 +1,9 @@
-# Series: Are you ready for a digital world? - Part 3: Government
+---
+title: Series: Are you ready for a digital world? - Part 3: Government
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
 
-![Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%203%20%208700d08d533a4d4ba82f971cfc18a21b/Tech-Companies-Government-Regulation-Privacy-Laws-Dice-1024x640.png](Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%203%20%208700d08d533a4d4ba82f971cfc18a21b/Tech-Companies-Government-Regulation-Privacy-Laws-Dice-1024x640.png)
+![assets/2021-07-09-government/Tech-Companies-Government-Regulation-Privacy-Laws-Dice-1024x640.png](assets/2021-07-09-government/Tech-Companies-Government-Regulation-Privacy-Laws-Dice-1024x640.png)
 
 [https://insights.dice.com/](https://insights.dice.com/)
 
@@ -16,7 +19,7 @@ With powerful potential, the U.S is ready to invest hundreds of millions of doll
 
 “Together, NSF’s AI Research Institutes and DoE’s QIS Research Centers will serve as national R&D hubs for these critical industries of the future, spurring innovation, supporting regional economic growth, and training our next-generation workforce,” the White House said.
 
-![Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%203%20%208700d08d533a4d4ba82f971cfc18a21b/22E094F230A8B57B2249623D766902B4AD2F48C0349BF2BB63384898A9452AB3.jpeg](Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%203%20%208700d08d533a4d4ba82f971cfc18a21b/22E094F230A8B57B2249623D766902B4AD2F48C0349BF2BB63384898A9452AB3.jpeg)
+![assets/2021-07-09-government/22E094F230A8B57B2249623D766902B4AD2F48C0349BF2BB63384898A9452AB3.jpeg](assets/2021-07-09-government/22E094F230A8B57B2249623D766902B4AD2F48C0349BF2BB63384898A9452AB3.jpeg)
 
 [https://blockchain.news/](https://blockchain.news/)
 
@@ -26,7 +29,7 @@ It can be seen that the technology industry in China has changed rapidly in the 
 
 Even it is not possible to determine Chinese and American which side has more investments, it can be seen that both of these powers countries are focusing their potential on R&D technology.
 
-![Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%203%20%208700d08d533a4d4ba82f971cfc18a21b/shutterstock_706839151-2-1024x682.jpeg](Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%203%20%208700d08d533a4d4ba82f971cfc18a21b/shutterstock_706839151-2-1024x682.jpeg)
+![assets/2021-07-09-government/shutterstock_706839151-2-1024x682.jpeg](assets/2021-07-09-government/shutterstock_706839151-2-1024x682.jpeg)
 
 [https://pegus.digital/](https://pegus.digital/)
 
@@ -38,7 +41,7 @@ Some countries in Europe have also switched to e-wallet payments such as Switzer
 
 Not only economic development, information technology also help improve national security, with advanced technology, countries can create the most outstanding security system, avoiding hacking to steal state secrets from the enemy.
 
-![Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%203%20%208700d08d533a4d4ba82f971cfc18a21b/https-www.thelancet.com.jpeg](Series%20Are%20you%20ready%20for%20a%20digital%20world%20-%20Part%203%20%208700d08d533a4d4ba82f971cfc18a21b/https-www.thelancet.com.jpeg)
+![assets/2021-07-09-government/https-www.thelancet.com.jpeg](assets/2021-07-09-government/https-www.thelancet.com.jpeg)
 
 https-[//www.thelancet.com/](https://www.thelancet.com/)
 
