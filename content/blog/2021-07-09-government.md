@@ -2,6 +2,7 @@
 title: Series: Are you ready for a digital world? - Part 3: Government
 author: @thu.nguyen
 authorURL: http://twitter.com/aioznetwork
+---
 
 ![assets/2021-07-09-government/Tech-Companies-Government-Regulation-Privacy-Laws-Dice-1024x640.png](assets/2021-07-09-government/Tech-Companies-Government-Regulation-Privacy-Laws-Dice-1024x640.png)
 <!--truncate-->
