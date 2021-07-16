@@ -1,6 +1,10 @@
-# How does technology help to respond to Covid-19?
+---
+title: How does technology help to respond to Covid-19?
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
 
-![How%20does%20technology%20help%20to%20respond%20to%20Covid-19%20edc41437a05b4180be0075f141d8c8ee/doctor_using_computer_getty_images_1_0.jpeg](How%20does%20technology%20help%20to%20respond%20to%20Covid-19%20edc41437a05b4180be0075f141d8c8ee/doctor_using_computer_getty_images_1_0.jpeg)
+![assets/2021-07-16-tech-respond-covid/doctor_using_computer_getty_images_1_0.jpeg](assets/2021-07-16-tech-respond-covid/doctor_using_computer_getty_images_1_0.jpeg)
 
 Source: [https://www.healthcareitnews.com/](https://www.healthcareitnews.com/)
 
@@ -12,7 +16,7 @@ How to minimize the number of infections and deaths? What should we do to preven
 
 While the outbreak of Covid-19 is too strong, with a rapid spread in the community, the use of technology applications to trace and localize the source of infection will help reduce community infections. Launched on March 20, Singapore's TraceTogether app has effectively detected and prevented the spread of Covid-19 in Singapore. As soon as a new case is confirmed, usually, the patient will not remember the schedule and the people he or she has been in contact with, making the epidemiological investigation difficult and time-consuming. By using wireless Bluetooth technology, TraceTogether has been able to identify people in close contact with an infected person, helping to speed up tracing and localization.
 
-![How%20does%20technology%20help%20to%20respond%20to%20Covid-19%20edc41437a05b4180be0075f141d8c8ee/-1x-1.jpeg](How%20does%20technology%20help%20to%20respond%20to%20Covid-19%20edc41437a05b4180be0075f141d8c8ee/-1x-1.jpeg)
+![assets/2021-07-16-tech-respond-covid/-1x-1.jpeg](assets/2021-07-16-tech-respond-covid/-1x-1.jpeg)
 
 Source: [https://www.bloomberg.com/](https://www.bloomberg.com/)
 
@@ -27,7 +31,7 @@ In the complicated situation of the Covid-19 epidemic, the AIOZ team researched 
 - BettleBot: Providing remote communication that supports security staff observe citizens during social distancing such as not wearing a mask when going out.
 - BettleBot: supporting doctors and nurses in hospitals and quarantine areas such as transporting medicine and food; spray disinfectant, etc. In addition, there is a remote medical examination function that allows patients can communicate with doctors. This can help to reduce the risk of infection.
 
-    ![How%20does%20technology%20help%20to%20respond%20to%20Covid-19%20edc41437a05b4180be0075f141d8c8ee/nhomrobot2_mlep.jpeg](How%20does%20technology%20help%20to%20respond%20to%20Covid-19%20edc41437a05b4180be0075f141d8c8ee/nhomrobot2_mlep.jpeg)
+    ![assets/2021-07-16-tech-respond-covid/nhomrobot2_mlep.jpeg](assets/2021-07-16-tech-respond-covid/nhomrobot2_mlep.jpeg)
 
     BettleBot help to manage in isolation area which achieved the first prize in the " Hack Co Vy" competition
 
@@ -35,7 +39,7 @@ In the complicated situation of the Covid-19 epidemic, the AIOZ team researched 
 
 When the Covid-19 spreads on a large scale, it is very difficult to control. However, China relies on China's surveillance network, which uses artificial intelligence technology with a network of hundreds of millions of cameras and facial recognition software. This system can monitor the travel history of people, thereby checking their possibility of infection. Moreover, it also helps the government to monitor people to ensure obey self-quarantine orders. A system for facial recognition even while wearing a mask and infrared temperature measurement have been installed in major Chinese cities thank to using big data of China's surveillance network.
 
-![How%20does%20technology%20help%20to%20respond%20to%20Covid-19%20edc41437a05b4180be0075f141d8c8ee/ECUADOR_17-superJumbo.jpeg](How%20does%20technology%20help%20to%20respond%20to%20Covid-19%20edc41437a05b4180be0075f141d8c8ee/ECUADOR_17-superJumbo.jpeg)
+![assets/2021-07-16-tech-respond-covid/ECUADOR_17-superJumbo.jpeg](assets/2021-07-16-tech-respond-covid/ECUADOR_17-superJumbo.jpeg)
 
 Source: h[ttps://www.nytimes.com/](https://www.nytimes.com/)
 
