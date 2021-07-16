@@ -5,6 +5,7 @@ authorURL: http://twitter.com/aioznetwork
 ---
 
 ![assets/2021-07-16-tech-respond-covid/doctor_using_computer_getty_images_1_0.jpeg](assets/2021-07-16-tech-respond-covid/doctor_using_computer_getty_images_1_0.jpeg)
+<!--truncate-->
 
 Source: [https://www.healthcareitnews.com/](https://www.healthcareitnews.com/)
 
