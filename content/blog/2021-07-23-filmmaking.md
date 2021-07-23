@@ -5,6 +5,7 @@ authorURL: http://twitter.com/aioznetwork
 ---
 
 ![assets/2021-07-23-filmmaking/Features-4.jpeg](assets/2021-07-23-filmmaking/Features-4.jpeg)
+<!--truncate-->
 
 Source: [https://e.huawei.com/](https://e.huawei.com/)
 
