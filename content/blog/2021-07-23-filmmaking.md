@@ -1,6 +1,10 @@
-# AI: New solution for filmmaking
+---
+title: AI: New solution for filmmaking
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
 
-![AI%20New%20solution%20for%20filmmaking%2099da4f03c11b4ba99db41ffee993295d/Features-4.jpeg](AI%20New%20solution%20for%20filmmaking%2099da4f03c11b4ba99db41ffee993295d/Features-4.jpeg)
+![assets/2021-07-23-filmmaking/Features-4.jpeg](assets/2021-07-23-filmmaking/Features-4.jpeg)
 
 Source: [https://e.huawei.com/](https://e.huawei.com/)
 
@@ -14,7 +18,7 @@ Do you remember Thanos who wants to wipe out a haft of life in the universe in A
 
 AI also can be utilized to help you write scripts for movies. I'm very impressed when I hear about Benjamin, a filmmaking AI which researched and developed by NYU. If you fed it a tone of science-fiction scripts. It can create for you a new script that learning from the data. AI algorithms analyze, understand and sort the input data to come up with a new story. Benjamin scripted a short sci-fi film about three people known as "Sunspring". Although now it's still unconventional, we believe that in the next few years when this technology becomes really smart, it will be a boom for the filmmaking industry. 
 
-![AI%20New%20solution%20for%20filmmaking%2099da4f03c11b4ba99db41ffee993295d/ClFR7HYWMAE8mKv.jpeg](AI%20New%20solution%20for%20filmmaking%2099da4f03c11b4ba99db41ffee993295d/ClFR7HYWMAE8mKv.jpeg)
+![assets/2021-07-23-filmmaking/ClFR7HYWMAE8mKv.jpeg](assets/2021-07-23-filmmaking/ClFR7HYWMAE8mKv.jpeg)
 
 Source: [https://twitter.com/](https://twitter.com/) 
 
@@ -24,7 +28,7 @@ No matter what major you work for, the promotion of the product is always a chal
 
 Not only movie trailer, the success of promotion a movie need more factors. AI algorithm is training to ensure that movie will be a hit. AI is used to predict and develop audience preferences. Movie studios can base on this to plan for their marketing strategy. Qloo, an AI platform that helps you to identify viewer performances and predict consumer taste. It changes the way we market movies to maximize film revenues. 
 
-![AI%20New%20solution%20for%20filmmaking%2099da4f03c11b4ba99db41ffee993295d/qloo-press-image.jpeg](AI%20New%20solution%20for%20filmmaking%2099da4f03c11b4ba99db41ffee993295d/qloo-press-image.jpeg)
+![assets/2021-07-23-filmmaking/qloo-press-image.jpeg](assets/2021-07-23-filmmaking/qloo-press-image.jpeg)
 
 Source: [https://techcrunch.com/](https://techcrunch.com/)
 
