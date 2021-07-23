@@ -33,4 +33,4 @@ Not only movie trailer, the success of promotion a movie need more factors. AI a
 
 Source: [https://techcrunch.com/](https://techcrunch.com/)
 
-As you can see that, there is a lot of AI technology in filmmaking. Movie producers are leveraging the power of AI to boost a new cinematic era. The interests of AI is fascinating which gradually change the media and entertainment world. We believe that shortly AI will be smarter and smarter to work as human assistants to raise the standard of filmmaking.
+As you can see that there is a lot of AI technology in filmmaking. Movie producers are leveraging the power of AI to boost a new cinematic era. The interests of AI is fascinating which gradually change the media and entertainment world. We believe that shortly AI will be smarter and smarter to work as human assistants to raise the standard of filmmaking.
