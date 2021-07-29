@@ -4,10 +4,8 @@ author: @thu.nguyen
 authorURL: http://twitter.com/aioznetwork
 ---
 
-![assets/2021-07-23-filmmaking/Features-4.jpeg](assets/2021-07-23-filmmaking/Features-4.jpeg)
+![](assets/2021-07-23-filmmaking/aioz-aicx.png)
 <!--truncate-->
-
-Source: [https://e.huawei.com/](https://e.huawei.com/)
 
 The filmmaking industry has changed for the past 25 years. Thanks to technology, we have more and more tools to create an extraordinary movie. There is no doubt that the rising of digital technology, diverse features of edit programs, 3D technology, drones, and Gimbels gave film producers a great advantage. Now, we have AI, which created a breakthrough in thinking about making and enjoying movies.
 
@@ -21,7 +19,9 @@ AI also can be utilized to help you write scripts for movies. I'm very impressed
 
 ![assets/2021-07-23-filmmaking/ClFR7HYWMAE8mKv.jpeg](assets/2021-07-23-filmmaking/ClFR7HYWMAE8mKv.jpeg)
 
+<center>
 Source: [https://twitter.com/](https://twitter.com/)
+</center>
 
 An element that characterizes AI is optimizing your task. AI can offer movie producers a simplified process to produce a movie. It can help to automatic of analyzing script process, planning efficiency schedule, budgeting, etc. It saves filmmakers a lot of time.
 
@@ -31,6 +31,8 @@ Not only movie trailer, the success of promotion a movie need more factors. AI a
 
 ![assets/2021-07-23-filmmaking/qloo-press-image.jpeg](assets/2021-07-23-filmmaking/qloo-press-image.jpeg)
 
+<center>
 Source: [https://techcrunch.com/](https://techcrunch.com/)
+</center>
 
 As you can see that there is a lot of AI technology in filmmaking. Movie producers are leveraging the power of AI to boost a new cinematic era. The interest in AI is fascinating, which gradually change the media and entertainment world. We believe that shortly AI will be more competent and intelligent to work as human assistants to raise the standard of filmmaking.
