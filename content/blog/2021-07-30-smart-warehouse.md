@@ -1,6 +1,10 @@
-# Series: AI in Logistics and Supply Chain - Part 1: Smart Warehouse
+---
+title: Series: AI in Logistics and Supply Chain - Part 1: Smart Warehouse
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
 
-![Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%201%20S%205a48777f861b42ae8487f14c9979d70c/Screen-Shot-2018-05-31-at-2.04.27-PM.png](Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%201%20S%205a48777f861b42ae8487f14c9979d70c/Screen-Shot-2018-05-31-at-2.04.27-PM.png)
+![assets/2021-07-30-smart-warehouse/Screen-Shot-2018-05-31-at-2.04.27-PM.png](assets/2021-07-30-smart-warehouse/Screen-Shot-2018-05-31-at-2.04.27-PM.png)
 
 [https://www.alizila.com/](https://www.alizila.com/)
 
@@ -12,7 +16,7 @@ There is no doubt that automating makes everything faster, more convenient, and 
 
 On the other hand, Computer Vision, an AI technology that can help to scan and detect damage. Logistics companies can determine damage depth and take action for this to avoid customer complaints. DHL - the giant in the Logistics field is using Intelligent Computer Vision for surveillance and analyzing the operation to innovate how shipments are packed as well as how they are inspected.
 
-![Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%201%20S%205a48777f861b42ae8487f14c9979d70c/DHL-info.jpeg](Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%201%20S%205a48777f861b42ae8487f14c9979d70c/DHL-info.jpeg)
+![assets/2021-07-30-smart-warehouse/DHL-info.jpeg](assets/2021-07-30-smart-warehouse/DHL-info.jpeg)
 
 [https://www.ibm.com/](https://www.ibm.com/)
 
@@ -28,7 +32,7 @@ Flask back in the past, Logistics and Supply Chain is a labor-intensive industry
 
 Today, there are many kinds of warehouse robots is using in logistics company's warehouse. Thanks to these robots, the labor cost can be reduced by about 70%. They move faster than people can and carry more parcels, also minor human errors. 
 
-![Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%201%20S%205a48777f861b42ae8487f14c9979d70c/amazon-robotics-units-copy.jpeg](Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%201%20S%205a48777f861b42ae8487f14c9979d70c/amazon-robotics-units-copy.jpeg)
+![assets/2021-07-30-smart-warehouse/amazon-robotics-units-copy.jpeg](assets/2021-07-30-smart-warehouse/amazon-robotics-units-copy.jpeg)
 
 [https://roboticsandautomationnews.com/](https://roboticsandautomationnews.com/)
 
