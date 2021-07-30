@@ -5,6 +5,7 @@ authorURL: http://twitter.com/aioznetwork
 ---
 
 ![assets/2021-07-30-smart-warehouse/Screen-Shot-2018-05-31-at-2.04.27-PM.png](assets/2021-07-30-smart-warehouse/Screen-Shot-2018-05-31-at-2.04.27-PM.png)
+<!--truncate-->
 
 [https://www.alizila.com/](https://www.alizila.com/)
 
