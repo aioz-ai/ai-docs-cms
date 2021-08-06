@@ -1,6 +1,10 @@
-# Series: AI in Logistics and Supply Chain - Part 2: Revolution your organization
+---
+title: Series: AI in Logistics and Supply Chain - Part 2: Revolution your organization
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
 
-![Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%202%20R%20db83e4712708443f9027a049e07f3e55/tri-tue-nhan-tao-nganh-logistics.jpeg](Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%202%20R%20db83e4712708443f9027a049e07f3e55/tri-tue-nhan-tao-nganh-logistics.jpeg)
+![assets/2021-08-06-organization/tri-tue-nhan-tao-nganh-logistics.jpeg](assets/2021-08-06-organization/tri-tue-nhan-tao-nganh-logistics.jpeg)
 
 Source: [https://smespeed.vn/](https://smespeed.vn/)
 
@@ -20,7 +24,7 @@ In Vietnam, delivery within 60 minutes is the outstanding feature of the Ship60.
 
 ### Demand forecasting
 
-![Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%202%20R%20db83e4712708443f9027a049e07f3e55/Cainiao-Vu-khi-Logistics-cua-tap-doan-Alibaba-01.jpeg](Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%202%20R%20db83e4712708443f9027a049e07f3e55/Cainiao-Vu-khi-Logistics-cua-tap-doan-Alibaba-01.jpeg)
+![assets/2021-08-06-organization/Cainiao-Vu-khi-Logistics-cua-tap-doan-Alibaba-01.jpeg](assets/2021-08-06-organization/Cainiao-Vu-khi-Logistics-cua-tap-doan-Alibaba-01.jpeg)
 
 Source: [http://maika.com.vn/](http://maika.com.vn/)
 
@@ -34,7 +38,7 @@ If you take a deep look insight Amazon’s AI-powered supply chain you will be s
 
 With a capable assistant like AI, it is completely possible to meet the demand of each customer. Customers can interact with logistics providers through Chatbots, to answer questions or resolve emerging issues. For example, you can track your DHL shipments through the Alexa app. Moreover, Alexa can help you automatically connect with a DHL customer service agent for assistance when needed.
 
-![Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%202%20R%20db83e4712708443f9027a049e07f3e55/customer-experience.jpeg](Series%20AI%20in%20Logistics%20and%20Supply%20Chain%20-%20Part%202%20R%20db83e4712708443f9027a049e07f3e55/customer-experience.jpeg)
+![assets/2021-08-06-organization/customer-experience.jpeg](assets/2021-08-06-organization/customer-experience.jpeg)
 
 Source: [https://latam.sinch.com/](https://latam.sinch.com/)
 
