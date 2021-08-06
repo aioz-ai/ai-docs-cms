@@ -5,6 +5,7 @@ authorURL: http://twitter.com/aioznetwork
 ---
 
 ![assets/2021-08-06-organization/tri-tue-nhan-tao-nganh-logistics.jpeg](assets/2021-08-06-organization/tri-tue-nhan-tao-nganh-logistics.jpeg)
+<!--truncate-->
 
 Source: [https://smespeed.vn/](https://smespeed.vn/)
 
