@@ -1,6 +1,10 @@
-# AI Assistant
+---
+title: AI Assistant
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
 
-![ai_personal_assistant_software.jpeg](AI%20Assistant%20f58a32cf88ea486aa1d3fbf40d2efbf4/ai_personal_assistant_software.jpeg)
+![ai_personal_assistant_software.jpeg](assets/2021-08-20-ai-assistant/ai_personal_assistant_software.jpeg)
 
 [https://www.iteratorshq.com/](https://www.iteratorshq.com/)
 
@@ -19,7 +23,7 @@ In case you are too busy with your job, with your daily life and you need an ass
 
 Virtual assistants also have the capacity to learn from users, remembering tasks and things that you often ask for, because the core of its is AI, it can collect user data and learn to more understand the user. Just equipped with a small device, you have an effective assistant right away.
 
-![Alexa-Google-Assistant-Siri.png](AI%20Assistant%20f58a32cf88ea486aa1d3fbf40d2efbf4/Alexa-Google-Assistant-Siri.png)
+![Alexa-Google-Assistant-Siri.png](assets/2021-08-20-ai-assistant/Alexa-Google-Assistant-Siri.png)
 
 [https://www.alexeko.com/](https://www.alexeko.com/)
 
@@ -33,7 +37,7 @@ With the different features, Alexa is the solution for your home life. Besides t
 
 If you're a fan of Marvel, you must know Jarvis, a super assistant of Iron Man - our hero. While watching the movie I was impressed with what Tony was able to do with Jarvis with his multiple functions. It was implemented AI techniques like natural language processing, speech recognition, face recognition, and reinforcement learning.
 
-![8d0xbxnyjrp91bou.jpeg](AI%20Assistant%20f58a32cf88ea486aa1d3fbf40d2efbf4/8d0xbxnyjrp91bou.jpeg)
+![8d0xbxnyjrp91bou.jpeg](assets/2021-08-20-ai-assistant/8d0xbxnyjrp91bou.jpeg)
 
 [https://archinect.com/](https://archinect.com/)
 
