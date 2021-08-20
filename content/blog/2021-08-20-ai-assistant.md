@@ -5,7 +5,7 @@ authorURL: http://twitter.com/aioznetwork
 ---
 
 ![ai_personal_assistant_software.jpeg](assets/2021-08-20-ai-assistant/ai_personal_assistant_software.jpeg)
-
+<!--truncate-->
 [https://www.iteratorshq.com/](https://www.iteratorshq.com/)
 
 When the world is transforming into a digital world, virtual assistants will not be a strange word to everybody. And you? Do you know the tool called Virtual Assistant? Let's find it out together!
