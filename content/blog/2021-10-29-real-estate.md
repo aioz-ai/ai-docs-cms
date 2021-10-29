@@ -1,6 +1,10 @@
-# AI in real estate industry
-
-![getty_861307294_360994.jpeg](AI%20in%20real%20estate%20industry%2041b30f266f52434b81ee2c6f25f37dd9/getty_861307294_360994.jpeg)
+---
+title: AI in real estate industry
+author: @thu.nguyen
+authorURL: http://twitter.com/aioznetwork
+---
+![assets/2021-10-29-real-estate/getty_861307294_360994.jpeg](assets/2021-10-29-real-estate/getty_861307294_360994.jpeg)
+<!--truncate-->
 
 Source: [https://www.inc.com/](https://www.inc.com/)
 
@@ -12,7 +16,7 @@ The data of the real estate industry is quite large and most of it is public, bu
 
 When you would like to buy a house, the first thing you do is definitely surf the web to find information. Now you can find exactly what you need with the help of AI-integrated technologies like virtual reality, data visualization, 3D modeling, drones which can record the property and its surroundings are used to create virtual tours, giving buyers the most authentic experiences without having to go from house to house for consideration.
 
-![mobile.jpeg](AI%20in%20real%20estate%20industry%2041b30f266f52434b81ee2c6f25f37dd9/mobile.jpeg)
+![assets/2021-10-29-real-estate/mobile.jpeg](assets/2021-10-29-real-estate/mobile.jpeg)
 
 Source: [https://blog.kuula.co/](https://blog.kuula.co/)
 
@@ -32,7 +36,7 @@ They also can implement AI technology to collect, analyze and evaluate customer 
 
 Smart home is now gradually becoming a trend in the digital world, it is not only a criterion for competition between real estate companies but also a standard for choosing a residence for buyers and their families. Smart home uses advanced technologies in which AI is the core such as virtual assistants, biometrics, demographic technology, facial recognition to increase the comfort and security of the home.
 
-![nha-thong-minh-smarthome.jpeg](AI%20in%20real%20estate%20industry%2041b30f266f52434b81ee2c6f25f37dd9/nha-thong-minh-smarthome.jpeg)
+![assets/2021-10-29-real-estate/nha-thong-minh-smarthome.jpeg](assets/2021-10-29-real-estate/nha-thong-minh-smarthome.jpeg)
 
 Source: [https://hinori-techno.com/](https://hinori-techno.com/)
 
